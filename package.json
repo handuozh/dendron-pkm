@@ -1,9 +1,9 @@
 {
-  "name": "dendron-template",
+  "name": "dendron-pkm",
   "version": "0.3.41",
   "main": "index.js",
-  "repository": "git@github.com:dendronhq/dendron-template.git",
-  "author": "kevinslin <kevin@thence.io>",
+  "repository": "git@github.com:handuozh/dendron-pkm.git",
+  "author": "Handuo <zhanghanduo@github.io>",
   "license": "MIT",
   "dependencies": {
     "execa": "^4.0.3",
