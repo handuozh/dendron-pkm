@@ -1,6 +1,6 @@
 ---
 id: 8e59e25f-808c-42f1-a82a-e9ce4fd8edd8
-title: '2020-09-20 Release Notes'
+title: 2020-09-20 Release Notes
 desc: ''
 updated: 1596374871110
 created: 1596374871110
