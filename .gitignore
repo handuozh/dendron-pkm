@@ -13,3 +13,4 @@ docs-dev/notes
 
 proto.*
 *.log
+package-lock.json
