@@ -1,0 +1,8 @@
+site:
+    siteHierarchies:
+        - pkm
+    siteRootDir: docs
+vaults:
+    -
+        fsPath: vault
+version: 0

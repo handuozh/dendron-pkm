@@ -1,0 +1,15 @@
+version: 1
+schemas:
+- id: pkm
+  children: 
+    - Keypoint
+    - SLAM
+    - Retrieval
+    - CNN
+  title: pkm
+  parent: root
+- id: Keypoint
+  namespace: true
+- id: SLAM
+- id: Retrieval
+- id: CNN
