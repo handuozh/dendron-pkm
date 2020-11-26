@@ -2,7 +2,7 @@
 id: 5bc96717-b624-46ed-afff-6c08666793a2
 title: D2-net
 desc: ''
-updated: 1606362133800
+updated: 1606362472269
 created: 1606196867098
 ---
 # D2-Net
@@ -27,7 +27,7 @@ $$
 
 - Interpretatioin of feature 3D tensor $F$ is a dense set $\mathbf{d}$ :
 $$
-\mathbf{d}_{ij} = F_{ij}, \mathbf{d} \in {\mathbb{R}^n}
+\mathbf{d}_{ij} = F_{ij}, \mathbf{d}\in{\mathbb{R}^n}
 $$
 
 - where $n$ is channel size, $i=1,\cdots, h$, $j=1,\cdots,w$.
@@ -37,7 +37,7 @@ $$
 
 - Collection of 2D responses $D$ from 3D tensor $F$ :
 $$ 
-D^k=F\_{: :k},   \; D^k \in{\mathbb{R}^{h\times w}}
+D^k=F\_{: :k}, D^k\in{\mathbb{R}^{h\times w}}
 $$
   - where $n$ is channel size, $k==1,\cdots,n$.
 
