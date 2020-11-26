@@ -2,7 +2,7 @@
 id: 5bc96717-b624-46ed-afff-6c08666793a2
 title: D2-net
 desc: ''
-updated: 1606361606000
+updated: 1606361838043
 created: 1606196867098
 ---
 # D2-Net
@@ -22,14 +22,19 @@ created: 1606196867098
 ## 1. Feature Description
 
 - Interpretatioin of feature 3D tensor $F$ is a dense set $\mathbf{d}$ :
-  - (1)  $\mathbf{d}_{ij} = F_{ij}, \mathbf{d} \in {\mathbb{R}^n}$
+  - $$
+    \mathbf{d}_{ij} = F_{ij}, \mathbf{d} \in {\mathbb{R}^n}
+    $$
+
   - where $n$ is channel size, $i=1,\cdots, h$, $j=1,\cdots,w$.
 - Compare using [[pkm.L2-norm]]
 
 ## 2. Feature Detection
 
 - Collection of 2D responses $D$ from 3D tensor $F$ :
-  - (2)   $D^k=F\_{: :k},   \; D^k \in{\mathbb{R}^{h\times w}}$
+  - $$ 
+      D^k=F\_{: :k},   \; D^k \in{\mathbb{R}^{h\times w}}
+  - $$
   - where $n$ is channel size, $k==1,\cdots,n$.
 
 - ### Hard Feature Detection
