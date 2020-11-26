@@ -2,7 +2,7 @@
 id: 5bc96717-b624-46ed-afff-6c08666793a2
 title: D2-net
 desc: ''
-updated: 1606361272716
+updated: 1606361606000
 created: 1606196867098
 ---
 # D2-Net
@@ -50,4 +50,5 @@ created: 1606196867098
 
 - ### Multi-scale Detection
   - TODO
+  - Need more time to read!
 
